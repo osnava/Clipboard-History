@@ -19,5 +19,3 @@ while True:
             wb.save("clipboard_history.xlsx")
             old_text = actual_text
     time.sleep(time_delay)
-
-
